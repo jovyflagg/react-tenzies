@@ -1,12 +1,15 @@
 {
   "files": {
+    "main.css": "/react-tenzies/static/css/main.ff0cd93c.css",
     "main.js": "/react-tenzies/static/js/main.496dea1f.js",
     "static/js/787.102017a2.chunk.js": "/react-tenzies/static/js/787.102017a2.chunk.js",
     "index.html": "/react-tenzies/index.html",
+    "main.ff0cd93c.css.map": "/react-tenzies/static/css/main.ff0cd93c.css.map",
     "main.496dea1f.js.map": "/react-tenzies/static/js/main.496dea1f.js.map",
     "787.102017a2.chunk.js.map": "/react-tenzies/static/js/787.102017a2.chunk.js.map"
   },
   "entrypoints": [
+    "static/css/main.ff0cd93c.css",
     "static/js/main.496dea1f.js"
   ]
 }
